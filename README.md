@@ -1,4 +1,4 @@
-# JWLManager
+# JWLManager - v1[^*]
 
 
 ## Purpose
@@ -14,7 +14,7 @@ ____
 
 ### [Windows and Mac OS](https://github.com/erykjj/jwlmanager/releases)
 
-Simply launch the **Windows executable**[^2] or **macOS app**[^3] as usual.
+Simply launch the **Windows executable**[^2] or **macOS app** as usual.
 
 ### Linux
 
@@ -152,6 +152,6 @@ Feel free to [get in touch](https://github.com/erykjj/jwlmanager/issues) and pos
 [![](icons/rss-36.png)](https://github.com/erykjj/jwlmanager/releases.atom)
 
 ____
+[^*]: This is the older (Qt5/PySide2-based) branch, for older operating systems (like MS Windows 7/8, or macOS 10.13 High Sierra). Development continues on the newer (Qt6/PySide6-based) [branch for v2](https://github.com/erykjj/jwlmanager/tree/master).
 [^1]: [JW Library](https://www.jw.org/en/online-help/jw-library/) is a registered trademark of *Watch Tower Bible and Tract Society of Pennsylvania*.
-[^2]: Packaged with Python 3.8.10/PySide2 (Qt5) and compatible with MS Windows 7 and up. For Windows Defender and other anti-virus alerts see [here](https://github.com/erykjj/jwlmanager/issues/1#issuecomment-1356470805)
-[^3]: Packaged with Python 3.7.9/PySide2 (Qt5) and compatible with macOS 10.13 (High Sierra) and up.
+[^2]: For Windows Defender and other anti-virus alerts see [here](https://github.com/erykjj/jwlmanager/issues/1#issuecomment-1356470805)
